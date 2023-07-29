@@ -1,12 +1,19 @@
 # TMDB Movie Recommendation System
 
-![TMDB Logo](tmdb_logo.png)
-
 Welcome to the TMDB Movie Recommendation System! This project aims to provide you with personalized movie recommendations based on your preferences and movie-watching history. Whether you're a cinephile looking for hidden gems or a casual moviegoer seeking entertainment, our recommendation system is here to help you discover new and exciting films.
 
 ## How it Works
 
 The TMDB Movie Recommendation System leverages the power of collaborative filtering and machine learning to suggest movies that align with your interests. Collaborative filtering analyzes the behavior of multiple users and identifies patterns in their movie preferences. By understanding the tastes of users with similar interests, the system can predict which movies you might enjoy, even if you haven't seen them yet.
+
+## Input Format
+
+![MRS_input](https://github.com/Abhishek676062/Movie-Recommended-System/assets/81158782/f2f5e2c4-b774-47e3-aba4-365ad9512b16)
+
+## Output Format
+
+![MRS_output](https://github.com/Abhishek676062/Movie-Recommended-System/assets/81158782/7abb421e-e7b9-438f-89c4-3df647125276)
+
 
 Our recommendation system comprises two main steps:
 
@@ -27,7 +34,7 @@ Before you can enjoy our movie recommendations, make sure you have the following
 You can easily install these dependencies using `pip`:
 
 ```bash
-pip install streamlit pandas scikit-learn numpy
+pip install streamlit pandas scikit-learn numpy or requirement.txt
 ```
 
 ## How to Run
@@ -37,13 +44,13 @@ To experience the magic of movie recommendations, follow these simple steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/tmdb-movie-recommendation.git
+git clone https://github.com/Abhishek676062/Movie-Recommended-System.git
 ```
 
 2. Change into the project directory:
 
 ```bash
-cd tmdb-movie-recommendation
+cd Movie-Recommended-System
 ```
 
 3. Run the Streamlit app:
@@ -73,8 +80,8 @@ We would like to extend our gratitude to the following:
 
 ## About Us
 
-This project is a result of the collaborative effort of passionate movie enthusiasts and data scientists at [Your Company Name]. Our goal is to enhance your movie-watching experience and introduce you to films that match your unique preferences.
+This project is a result of the collaborative effort of passionate movie enthusiasts and data scientists. Our goal is to enhance your movie-watching experience and introduce you to films that match your unique preferences.
 
-If you have any questions, suggestions, or feedback, feel free to reach out to us at [contact@example.com](mailto:contact@example.com). We'd love to hear from you!
+If you have any questions, suggestions, or feedback, feel free to reach out to us at [shabhishek055@gmail.com](mailto:shabhishek055@gmail.com). We'd love to hear from you!
 
 Happy movie recommendation exploring! 🎬🍿
