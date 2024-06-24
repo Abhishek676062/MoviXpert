@@ -1,4 +1,4 @@
-# TMDB Movie Recommendation System
+# MoviXpert - Your AI-Powered Movie Recommendation
 
 Welcome to the TMDB Movie Recommendation System! This project aims to provide you with personalized movie recommendations based on your preferences and movie-watching history. Whether you're a cinephile looking for hidden gems or a casual moviegoer seeking entertainment, our recommendation system is here to help you discover new and exciting films.
 
